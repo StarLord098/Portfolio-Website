@@ -1,6 +1,6 @@
 import React from 'react'
 import { HERO_CONTENT } from '../constants'
-import Profilepic from '../assets/profilepic.jpg'
+import Profilepic from '../assets/Profilepic.jpg'
 import { motion } from 'framer-motion'
 
 export const Hero = () => {
